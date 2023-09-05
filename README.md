@@ -7,14 +7,15 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 
-# Projeto - Portifólio para a escrita do README
+# 🚀 Projeto - Portifólio para a escrita do README
+![image](img/Captura%20de%20tela%202023-09-05%20075729.png)
 
-## Descrição 
+## 📝 Descrição 
 
-## Funcionalidades
+## ⚙️ Funcionalidades
 
-### Tecnologias utilizadas
+### 💻 Tecnologias utilizadas
 
-## Fontes consultadas
+## 🔎 Fontes consultadas
 
-## Autores 
+## 🙎🏽 Autores 
