@@ -15,6 +15,12 @@
 ## ⚙️ Funcionalidades
 
 ### 💻 Tecnologias utilizadas
+- Git  
+- GitHub  
+- HTML  
+- CSS  
+- Vs Code  
+- README.md  
 
 ## 🔎 Fontes consultadas
 
