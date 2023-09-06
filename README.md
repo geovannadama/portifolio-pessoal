@@ -11,8 +11,10 @@
 ![image](img/Captura%20de%20tela%202023-09-05%20075729.png)
 
 ## 📝 Descrição 
+- Este é um modelo de página inicial simples e bonita, projetado para ajudar você a criar uma presença online atraente rapidamente. Com um design limpo e moderno, esta página proporcionará uma experiência agradável aos visitantes, transmitindo profissionalismo e estilo.
 
-## ⚙️ Funcionalidades
+## ⚙️ Funcionalidade  
+- Mostrar como funciona a utilização do bootstrap.
 
 ### 💻 Tecnologias utilizadas
 - Git  
@@ -20,8 +22,12 @@
 - HTML  
 - CSS  
 - Vs Code  
-- README.md  
+
 
 ## 🔎 Fontes consultadas
+- Bootstrap, por mdo
 
 ## 🙎🏽 Autores 
+- Geovanna Dama 
+- Ruan Pablo
+- Leonardo Rocha
