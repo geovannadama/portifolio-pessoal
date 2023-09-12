@@ -14,7 +14,14 @@
 - Este é um modelo de página inicial simples e bonita, projetado para ajudar você a criar uma presença online atraente rapidamente. Com um design limpo e moderno, esta página proporcionará uma experiência agradável aos visitantes, transmitindo profissionalismo e estilo.
 
 ## ⚙️ Funcionalidade  
-- Mostrar como funciona a utilização do bootstrap.
+- Instruções de Instalação: Forneça instruções claras sobre como instalar e configurar o projeto em um ambiente de desenvolvimento.  
+- Uso: Descreva como usar o projeto em detalhes.  
+- Configuração: Se o projeto tiver configurações específicas, explique como configurá-las.  
+- Contribuição: Se o projeto for de código aberto e aceitar contribuições, explique como os desenvolvedores podem contribuir.  
+- Licença: Declare a licença sob a qual o projeto é disponibilizado.  
+- Status do Projeto: Informe o estado atual do projeto, como se ele está em desenvolvimento ativo, em manutenção mínima ou arquivado.  
+- Contato: Forneça informações de contato para os desenvolvedores ou mantenedores do projeto, caso alguém queira entrar em contato para relatar problemas ou fazer perguntas.  
+- FAQ (Perguntas Frequentes): Se houver perguntas comuns dos usuários ou questões conhecidas, é útil incluir uma seção de FAQ para fornecer respostas rápidas.  
 
 ### 💻 Tecnologias utilizadas
 - Git  
