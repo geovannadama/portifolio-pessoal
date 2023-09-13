@@ -32,7 +32,8 @@
 
 
 ## 🔎 Fontes consultadas
-- Bootstrap, por mdo
+- Bootstrap
+- https://www.alura.com.br/artigos/escrever-bom-readme  
 
 ## 🙎🏽 Autores 
 - Geovanna Dama 
